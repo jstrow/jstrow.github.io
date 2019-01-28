@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/squad.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: auto;
+    /*background-color: black*/
+}
+
+#homeCards{
+    padding-top: 150px;
+}
+
+#main{
+    padding-top: 80px;
+}
+
+#seal{
+    padding-top: 80px;
+}
+
